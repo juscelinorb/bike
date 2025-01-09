@@ -1,6 +1,6 @@
 # 📁 Acesso ao Azure Machine Learning
 
-
+![Imagem Tela Inicial](/images/labai-900_1.png)
 
 **Acessar o Azure Machine Learning**
 
