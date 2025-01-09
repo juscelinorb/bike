@@ -17,3 +17,7 @@
 
 *Graficos*
 ![Imagem dos graficos](/images/labai-900_5.png)
+
+*Pontos de extremidade cliquei varias vezes ali em implantar modelo e não vai*
+![Imagem Ponto de Extremidade](/images/labai-900_6.png)
+
