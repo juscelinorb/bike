@@ -1,4 +1,3 @@
-"# bike" 
 # 📁 Acesso ao projeto
 
 **Acessar o Azure Machine Learning**
